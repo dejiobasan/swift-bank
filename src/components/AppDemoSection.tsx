@@ -73,7 +73,7 @@ export default function AppDemo() {
         ))}
       </div>
       <div className="flex justify-center items-center mt-10 mb-20">
-        <button className="bg-custombg2 border text-custom font-semibold px-4 py-2 rounded-2xl hover:bg-blue-400 flex items-center space-x-2">
+        <button className="bg-custombg2 border text-custom font-semibold px-4 py-2 rounded-2xl hover:bg-yellow-200 flex items-center space-x-2">
           <span>App Demo</span>
           <PlayCircleIcon className="h-10 w-10 text-white" />
         </button>
