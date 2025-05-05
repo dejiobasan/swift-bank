@@ -1,6 +1,8 @@
 import Hero from '@/components/Hero';
 import AppDemo from '@/components/AppDemoSection';
 import AboutUs from '@/components/AboutUsSection';
+import FeedbackSection from '@/components/FeedbackSection';
+import Footer from '@/components/Footer';
 
 
 export default function Home() {
@@ -9,7 +11,8 @@ export default function Home() {
       <Hero />
       <AppDemo/>
       <AboutUs />
+      <FeedbackSection />
+      <Footer />
     </main>
   )
-
 }
