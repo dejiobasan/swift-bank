@@ -45,7 +45,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="flex flex-col items-start bg-custom p-6">
-        <p className="text-white ml-10 mt-4 mb-4 text-sm">
+        <p className="text-white ml-10 mt-4 mb-4 text-sm font-light">
           © 2025 Swift Bank. BC 617815 (Licensed by Central Bank of Nigeria). All rights reserved. 
         </p>
       </div>
